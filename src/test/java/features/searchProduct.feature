@@ -17,3 +17,7 @@ Feature: Search and place the order for products
 #    How git changes work
 #    When pushing
 
+#    Here are some extra changes
+#    From the second user
+#    To show git push demo
+
