@@ -11,4 +11,9 @@ Feature: Search and place the order for products
       | Name |
       | Tom  |
       | Beet |
+  
+#    This is some text
+#    Just to show
+#    How git changes work
+#    When pushing
 
